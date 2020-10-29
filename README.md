@@ -8,12 +8,12 @@
 
 ## Setup
 
-- [Click to view Github repository](-link) Or simply paste the following url into your prefered browser -link
+- [Click to view Github repository](https://github.com/SJerrod/romannumerals.git) Or simply paste the following url into your prefered browser https://github.com/SJerrod/romannumerals.git
 - To Clone repository simply click the green Code button and copy the url
 - Using a prefered terminal type command 'git clone paste-url-here
 - Alternetivly click the Set up in Desktop button
 - Open the index file to view site
-- [Click to open active site in Github](-link) Or simply paste the following url into your prefered browser -link to view the active page on Github
+- [Click to open active site in Github](https://sjerrod.github.io/romannumerals/) Or simply paste the following url into your prefered browser https://sjerrod.github.io/romannumerals/ to view the active page on Github
 
 ## Specifications
 
