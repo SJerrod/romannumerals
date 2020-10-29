@@ -21,7 +21,7 @@
 | --------------------------------------------------------------- | --------- | --------- |
 | Takes user input and returns it | test 123 | test 123 |
 | Check if input is an interger | test 123 | no yes |
-| Check if number is less then or equal to 3,999 | 3560, 4001 | yes, no |
+| Check if number is less then 1 or equal to 3,999 | -1, 0, 3560, 4001 | no, no, yes, no |
 | Add M for each multiple of 1000 leaving remainder | 3999 | MMM, 999 |
 | Add CM for each multiple of 900 in remainder, leaving remainder | 999 | CM,99 |
 | Add D for each multiple of 500 in remainder, leaving remainder | 505 | D,5 |
